@@ -1,0 +1,33 @@
+
+.tablestyle{
+	border-collapse:collapse;
+	margin:5px;
+}
+.thstyle {
+	border:1px solid rgba(180,180,180,1);
+	text-align: center;
+	padding:10px;
+}
+.tdstyle {
+	border:1px solid rgba(180,180,180,1);
+	text-align: center;
+	padding:10px;
+	word-wrap: break-word;
+    word-break: break-all;
+}
+.trstyle {
+	border:1px solid rgba(180,180,180,1);
+	text-align: center;
+}
+.newstitle{
+	margin-top:15px;
+	margin-bottom:25px;
+}
+.newtext{
+	margin-top:25px;
+	margin-bottom:25px;
+}
+.newscontainer{
+	margin-top:25px!important;
+	margin-bottom:25px!important;
+}
